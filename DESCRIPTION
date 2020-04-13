@@ -5,7 +5,7 @@ Version: 1.18.0
 Date: 2020-01-15
 Author: Jarek Tuszynski <jaroslaw.w.tuszynski@saic.com>
 Maintainer: Michael Dietze <mdietze@gfz-potsdam.de>
-Depends: R (>= 3.6.0)
+Depends: R (>= 3.5.0)
 Imports: bitops
 Suggests: MASS, rpart
 Description: Contains several basic utility functions including: moving
